@@ -16,6 +16,7 @@ This premium meal just gave me the exact experience boost we need to face tomorr
 
 ## What I practiced
 - input()
+- "".join()
 - multi-line text
 - Clean answer with: .strip() .title() and .lower() 
 - len() + .split()
