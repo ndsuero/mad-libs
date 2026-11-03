@@ -27,7 +27,7 @@ sealing thousands of players inside a reality where logging out was no longer an
   Hana handed him a steaming clay pot of savory {food}, urging, 
   "Perfect, now {verb} this before the server detects the glitch and wipes your character!"
   Gulping down the food as the {adjective} twilight deepened, {name} watched his boosted 
-  stat bars permanently lock into place, ready to face the floor boss."""
+  stat bars permanently lock an a place, ready to face the floor boss."""
 
 print(f"Name:{name}")
 print(f"Adjective:{adjective}")
