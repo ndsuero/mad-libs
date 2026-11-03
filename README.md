@@ -16,7 +16,9 @@ This premium meal just gave me the exact experience boost we need to face tomorr
 
 ## What I practiced
 - input()
-- "".join()
-- multi-line text
+- Cleaning answers with `.strip()`, `.title()` and `.lower()`
+- Math with variables (`{number * 2}`)
+- Shouting a word with `.upper()`
+- Multi-line f-strings with triple quotes `"""`
 - Clean answer with: .strip() .title() and .lower() 
-- len() + .split()
+- Counting words with `len()` and `.split()`
