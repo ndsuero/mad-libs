@@ -9,13 +9,13 @@ place = input("Give me an a place. ").strip().title()
 food = input("Give me a food. ").strip().lower()
 animal = input("Give me an animal. ").strip().lower()
 number = int(input("Give me a number. ").strip())
-object = input("Give me an object. ").strip().lower()
+item = input("Give me an object. ").strip().lower()
 shouted = "shouted".upper()
 
 story = f"""The digital sky of Aethelgard fractured into a brilliant neon glare, 
 sealing thousands of players inside a reality where logging out was no longer an option.
  {name} sat tightly gripped by panic in the starting plaza of {place},
-  his knuckles white as his fingers raced across the keyboard of a high-tier relic {object}
+  his knuckles white as his fingers raced across the keyboard of a high-tier relic {item}
   to parse the game's locked source code. A pixelated companion {animal} suddenly nudged his elbow,
   causing his hand to slip and accidentally execute a rogue data loop that multiplied his experience
   variable instantly. "SYSTEM INTRUSION!" {name} {shouted}, staring in utter disbelief as a flashing
@@ -36,7 +36,7 @@ print(f"Place:{place}")
 print(f"Food:{food}")
 print(f"Animal:{animal}")
 print(f"Number:{number * 2}.")
-print(f"Object:{object}")
+print(f"Item:{item}")
 print(story)
 print("")
 print(f"Your story has {len(story.split())} words.")
