@@ -1,5 +1,7 @@
 # Aethelgard.
 
+## A Mad Libs word game in Python: you give the words, it writes the adventure.
+
 ## Aethelgard is a sci-fi fantasy MMORPG where trapped players must level up and hack the game's source code to escape.
 
 ## How to run the story:
