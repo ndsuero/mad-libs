@@ -21,8 +21,8 @@ sealing thousands of players inside a reality where logging out was no longer an
   variable instantly. "SYSTEM INTRUSION!" {name} {shouted}, staring in utter disbelief as a flashing
   holographic notification materialized above his head to announce he had reached Level {number}.
   His guildmate Hana rushed over, scanning his stats in shock. "Incredible,
-  your level doubled from 27!" she gasped, pulling up a tactical interface.
-  "Let's see... fifty-four times two means your combat power is now {number * 2}!" {name} 
+  your level doubled from {number}!" she gasped, pulling up a tactical interface.
+  "Let's see... {number} times two means your combat power is now {number * 2}!" {name} 
   nodded eagerly, replying, "Yes, that math gives us the exact damage output we need!" 
   Hana handed him a steaming clay pot of savory {food}, urging, 
   "Perfect, now {verb} this before the server detects the glitch and wipes your character!"
